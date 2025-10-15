@@ -145,6 +145,28 @@ pm2 status                      # État des processus
 
 ## 🆘 Besoin d'Aide ?
 
+### Erreur yt-dlp (Bot ne peut pas jouer de musique)
+
+```bash
+# Sur le VPS
+./fix-ytdlp.sh
+pm2 restart botmusic
+```
+
+**Voir `URGENT_FIX.md` pour plus de détails**
+
+### Accéder aux Logs/Debug sur le VPS
+
+```bash
+# Menu interactif complet
+./logs-vps.sh
+
+# Ou commandes rapides
+./quick-commands.sh logs    # Logs en temps réel
+./quick-commands.sh errors  # Erreurs uniquement
+./quick-commands.sh status  # Statut du bot
+```
+
 ### Problème sur PC
 
 ```bash
@@ -164,8 +186,8 @@ pm2 logs botmusic --err
 # Tester manuellement
 node src/index.js
 
-# Stats système
-./debug.sh stats
+# Vérifier l'état système
+./quick-commands.sh check
 ```
 
 ---

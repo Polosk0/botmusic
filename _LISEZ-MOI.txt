@@ -154,12 +154,41 @@ pm2 monit                       # Monitoring
 pm2 status                      # Statut
 
 ════════════════════════════════════════════════════════════
+  🚨 ERREUR YT-DLP ? (Bot ne joue pas de musique)
+════════════════════════════════════════════════════════════
+
+Sur le VPS :
+  $ ./fix-ytdlp.sh
+  $ pm2 restart botmusic
+
+Voir : URGENT_FIX.md
+
+════════════════════════════════════════════════════════════
+  📊 ACCÉDER AUX LOGS/DEBUG
+════════════════════════════════════════════════════════════
+
+Menu interactif :
+  $ ./logs-vps.sh
+
+Commandes rapides :
+  $ ./quick-commands.sh logs      (Temps réel)
+  $ ./quick-commands.sh errors    (Erreurs)
+  $ ./quick-commands.sh status    (Statut)
+  $ ./quick-commands.sh check     (État système)
+
+Commandes PM2 :
+  $ pm2 logs botmusic             (Temps réel)
+  $ pm2 logs botmusic --err       (Erreurs)
+  $ pm2 monit                     (Monitoring)
+
+════════════════════════════════════════════════════════════
   🆘 BESOIN D'AIDE ?
 ════════════════════════════════════════════════════════════
 
-1. Ouvrez DEPLOY_NOW.md ou START_HERE.md
-2. Consultez DEBUG_README.md
-3. Vérifiez les logs : pm2 logs botmusic
+1. Ouvrez URGENT_FIX.md (si erreur yt-dlp)
+2. Ouvrez DEPLOY_NOW.md ou START_HERE.md
+3. Consultez DEBUG_README.md
+4. Utilisez : ./logs-vps.sh
 
 ════════════════════════════════════════════════════════════
   🎉 PRÊT À DÉPLOYER !

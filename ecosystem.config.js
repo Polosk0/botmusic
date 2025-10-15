@@ -7,7 +7,8 @@ module.exports = {
     watch: false,
     max_memory_restart: '1G',
     env: {
-      NODE_ENV: 'production'
+      NODE_ENV: 'production',
+      DEBUG: '*'
     },
     error_file: './logs/pm2-error.log',
     out_file: './logs/pm2-out.log',
@@ -18,7 +19,9 @@ module.exports = {
     restart_delay: 4000,
     kill_timeout: 3000,
     wait_ready: true,
-    listen_timeout: 10000
+    listen_timeout: 10000,
+    log_type: 'json',
+    combine_logs: true
   }]
 };
 

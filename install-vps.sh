@@ -56,6 +56,21 @@ fi
 
 echo -e "$(timestamp) ${GREEN}✅ FFmpeg installé${NC}"
 
+if ! command -v yt-dlp &> /dev/null; then
+    echo -e "$(timestamp) ${YELLOW}⚠️  yt-dlp n'est pas installé. Installation en cours...${NC}"
+    sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+    sudo chmod a+rx /usr/local/bin/yt-dlp
+fi
+
+echo -e "$(timestamp) ${GREEN}✅ yt-dlp installé${NC}"
+
+if ! command -v python3 &> /dev/null; then
+    echo -e "$(timestamp) ${YELLOW}⚠️  Python3 n'est pas installé. Installation en cours...${NC}"
+    sudo apt-get install -y python3 python3-pip
+fi
+
+echo -e "$(timestamp) ${GREEN}✅ Python3 installé${NC}"
+
 echo -e "$(timestamp) ${BLUE}📦 Installation des dépendances...${NC}"
 pnpm install
 
