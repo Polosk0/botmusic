@@ -1,0 +1,11 @@
+node_modules/
+logs/
+temp/
+*.log
+.env
+.env.local
+.env.production
+*.backup
+*.tar.gz
+1759*-player-script.js
+

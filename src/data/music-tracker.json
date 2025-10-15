@@ -1,0 +1,23 @@
+{
+  "currentTracks": {
+    "1264000865526743164": {
+      "title": "Funk Tribu | Boiler Room: Ghent",
+      "url": "https://www.youtube.com/watch?v=cmUov7X5Pjc&list=RDcmUov7X5Pjc&start_radio=1&t=3082s",
+      "duration": 3352,
+      "thumbnail": "https://i.ytimg.com/vi_webp/cmUov7X5Pjc/maxresdefault.webp",
+      "uploader": "Boiler Room",
+      "isSpotify": false,
+      "timestamp": 1759931297601
+    },
+    "1401727737697271903": {
+      "title": "Balling - LÄUFF Remix",
+      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA",
+      "duration": 260,
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734bdcb99019581e68c951959f",
+      "uploader": "Vibe Chemistry, LÄUFF",
+      "isSpotify": true,
+      "timestamp": 1759940264897
+    }
+  },
+  "lastUpdate": 1759940264897
+}

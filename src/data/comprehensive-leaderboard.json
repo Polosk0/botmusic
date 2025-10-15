@@ -1,0 +1,3620 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "createdAt": 1759715932474,
+    "lastUpdate": 1759941192098,
+    "totalUsers": 16,
+    "totalBots": 8,
+    "serverId": "1264000865526743164",
+    "isTracking": true
+  },
+  "users": {
+    "user1": {
+      "id": "user1",
+      "username": "TestUser1",
+      "displayName": "Test User 1",
+      "tag": "TestUser1#0000",
+      "isBot": false,
+      "avatar": null,
+      "joinedAt": 1759715932475,
+      "lastSeen": 1759715934482,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "channel1": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1365537873012461569": {
+      "id": "1365537873012461569",
+      "username": ".neednoone",
+      "displayName": "n33d?",
+      "tag": ".neednoone",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1365537873012461569/22e4e82bc6812bc5f98cb760e193ce35.webp",
+      "joinedAt": 1759715971653,
+      "lastSeen": 1759940684173,
+      "stats": {
+        "messages": {
+          "total": 2,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 2,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 1395,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 93,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 1350,
+            "1264001108414828635": 45
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Mon Oct 06 2025",
+          "activeDays": 1,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1088121021044887572": {
+      "id": "1088121021044887572",
+      "username": ".polosko",
+      "displayName": "polo",
+      "tag": ".polosko",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1088121021044887572/0ccf3a266e8a43ecb6c6a7c8969adef2.webp",
+      "joinedAt": 1759715971653,
+      "lastSeen": 1759940425441,
+      "stats": {
+        "messages": {
+          "total": 60,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 59,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 1,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 1545,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 103,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 1470,
+            "1264001108414828635": 45,
+            "1405391898755076136": 30
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Wed Oct 08 2025",
+          "activeDays": 3,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1052179716334956636": {
+      "id": "1052179716334956636",
+      "username": "idea37",
+      "displayName": "idea",
+      "tag": "idea37",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1052179716334956636/65d9f655af6b74c853cca21e373c9642.webp",
+      "joinedAt": 1759715971654,
+      "lastSeen": 1759761143999,
+      "stats": {
+        "messages": {
+          "total": 5,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 4,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 1,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 12315,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 821,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 12300,
+            "1405391898755076136": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Mon Oct 06 2025",
+          "activeDays": 1,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "771949782360391711": {
+      "id": "771949782360391711",
+      "username": "houdini.zzz",
+      "displayName": "Houdini",
+      "tag": "houdini.zzz",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/771949782360391711/1d19c95422d920d6ea631a73d37d9356.webp",
+      "joinedAt": 1759715971654,
+      "lastSeen": 1759934008099,
+      "stats": {
+        "messages": {
+          "total": 2,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 2,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 5610,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 374,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 5610
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Wed Oct 08 2025",
+          "activeDays": 1,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1223615685763137568": {
+      "id": "1223615685763137568",
+      "username": "cheatzy05",
+      "displayName": "balustrade le bal",
+      "tag": "cheatzy05",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1223615685763137568/c2e6b066a9873c98047cd51a9a9c50af.webp",
+      "joinedAt": 1759728238058,
+      "lastSeen": 1759728275156,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 60,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 4,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1264001108414828635": 60
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "776057360069820426": {
+      "id": "776057360069820426",
+      "username": "slimzer67",
+      "displayName": "slimzer67",
+      "tag": "slimzer67",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/776057360069820426/8ee30c41b573cfbb2549e11ab31e740a.webp",
+      "joinedAt": 1759758956292,
+      "lastSeen": 1759758956293,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1264001108414828635": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "440217995663376394": {
+      "id": "440217995663376394",
+      "username": "wkhch",
+      "displayName": "༺￦คъչ༻",
+      "tag": "wkhch",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/440217995663376394/01c9571c406631f2a8a6b266e05f6487.webp",
+      "joinedAt": 1759759628234,
+      "lastSeen": 1759767137727,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 30,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 2,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1264001108414828635": 30
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "569663063683235840": {
+      "id": "569663063683235840",
+      "username": "outlawz_",
+      "displayName": "OUTLAWZ",
+      "tag": "outlawz_",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/569663063683235840/a_e720ccc9edb9a258c58d72f3108048d5.gif",
+      "joinedAt": 1759766140346,
+      "lastSeen": 1759772037627,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 30,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 2,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1405391898755076136": 30
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "981605446102188042": {
+      "id": "981605446102188042",
+      "username": "hellshopy",
+      "displayName": "Nice",
+      "tag": "hellshopy",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/981605446102188042/df58cb5a88a2d38ea35e5ceb2e7042df.webp",
+      "joinedAt": 1759766629249,
+      "lastSeen": 1759766629250,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1405391898755076136": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "996663105348173844": {
+      "id": "996663105348173844",
+      "username": "lacrakotte31",
+      "displayName": "maikoo",
+      "tag": "lacrakotte31",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/996663105348173844/f5816b2c2f7f46f7ada5712e7bc2f0e2.webp",
+      "joinedAt": 1759772115123,
+      "lastSeen": 1759937052487,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 30,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 2,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1264001108414828635": 30
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1160664543182200882": {
+      "id": "1160664543182200882",
+      "username": "suqqa_",
+      "displayName": "!                    𝕯𝖎𝖋ä𝖒𝖊",
+      "tag": "suqqa_",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1160664543182200882/a_04a2f2732f7f16a06e352fd3f8c514a3.gif",
+      "joinedAt": 1759772893799,
+      "lastSeen": 1759940621386,
+      "stats": {
+        "messages": {
+          "total": 17,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 17,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1408035691128029214": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Wed Oct 08 2025",
+          "activeDays": 2,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "602323257533923348": {
+      "id": "602323257533923348",
+      "username": "natk5",
+      "displayName": "Pindou",
+      "tag": "natk5",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/602323257533923348/761cb1f468312c97869d99c415265654.webp",
+      "joinedAt": 1759772941101,
+      "lastSeen": 1759772941102,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1408035691128029214": 15
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "294175234179858434": {
+      "id": "294175234179858434",
+      "username": "hype9108",
+      "displayName": "HYPE",
+      "tag": "hype9108",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/294175234179858434/ad627d8f6d37076ee3001bf322304827.webp",
+      "joinedAt": 1759848133504,
+      "lastSeen": 1759939734159,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 0,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 30,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 2,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1264001108414828635": 30
+          }
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": null,
+          "activeDays": 0,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "774738787242475551": {
+      "id": "774738787242475551",
+      "username": "xtaz",
+      "displayName": "UwU",
+      "tag": "xtaz",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/774738787242475551/a_deda36da437b9668865c09662b43f659.gif",
+      "joinedAt": 1759848270181,
+      "lastSeen": 1759937246167,
+      "stats": {
+        "messages": {
+          "total": 3,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 2,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 1,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Wed Oct 08 2025",
+          "activeDays": 2,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    },
+    "1081270258150682707": {
+      "id": "1081270258150682707",
+      "username": "john_gentlemen",
+      "displayName": "John - Alt Polosko",
+      "tag": "john_gentlemen",
+      "isBot": false,
+      "avatar": "https://cdn.discordapp.com/avatars/1081270258150682707/e9cb20abc1d8ad60e49b12405899cd43.webp",
+      "joinedAt": 1759931569052,
+      "lastSeen": 1759931582851,
+      "stats": {
+        "messages": {
+          "total": 2,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "text": 2,
+            "embeds": 0,
+            "attachments": 0,
+            "links": 0,
+            "commands": 0,
+            "reactions": 0,
+            "edits": 0,
+            "deletes": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "dailyStreak": 0,
+          "longestStreak": 0,
+          "lastActiveDay": "Wed Oct 08 2025",
+          "activeDays": 1,
+          "totalDays": 0
+        },
+        "engagement": {
+          "reactionsGiven": 0,
+          "reactionsReceived": 0,
+          "mentions": 0,
+          "mentionsGiven": 0,
+          "channelsActive": 0,
+          "serversActive": 0
+        }
+      }
+    }
+  },
+  "bots": {
+    "bot1": {
+      "id": "bot1",
+      "username": "TestBot1",
+      "displayName": "Test Bot 1",
+      "tag": "TestBot1#0000",
+      "isBot": true,
+      "avatar": null,
+      "addedAt": 1759715932475,
+      "lastSeen": 1759715934482,
+      "stats": {
+        "messages": {
+          "total": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 0,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 15,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 1,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "channel1": 15
+          }
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100
+        }
+      }
+    },
+    "1289643168438157393": {
+      "id": "1289643168438157393",
+      "username": "Piatella",
+      "displayName": "/PiatellaJS",
+      "tag": "Piatella#7475",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/1289643168438157393/8d0d5926a130ac4e318e9284c0464a0b.webp",
+      "addedAt": 1759715971653,
+      "lastSeen": 1759941192097,
+      "stats": {
+        "messages": {
+          "total": 164,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 164,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 12300,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 820,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 12300
+          }
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 2,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "1423444976343187517": {
+      "id": "1423444976343187517",
+      "username": "🕲- 𝘮",
+      "displayName": "🕲- 𝘮",
+      "tag": "🕲- 𝘮#4655",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/1423444976343187517/4f41cf39973fa981689ade6cdf6103e3.webp",
+      "addedAt": 1759715971655,
+      "lastSeen": 1759940235037,
+      "stats": {
+        "messages": {
+          "total": 157,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 4,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 2175,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 145,
+          "averageSession": 15,
+          "longestSession": 15,
+          "byChannel": {
+            "1351148171262300160": 1395,
+            "1264001108414828635": 285,
+            "1405391898755076136": 495
+          }
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 2,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "302050872383242240": {
+      "id": "302050872383242240",
+      "username": "DISBOARD",
+      "displayName": "DISBOARD",
+      "tag": "DISBOARD#2760",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/302050872383242240/67342a774a9f2d20d62bfc8553bb98e0.webp",
+      "addedAt": 1759722438807,
+      "lastSeen": 1759934081695,
+      "stats": {
+        "messages": {
+          "total": 5,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 5,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 2,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "1410474350590820482": {
+      "id": "1410474350590820482",
+      "username": "PokeMMO #pve-alerts",
+      "displayName": "PokeMMO #pve-alerts",
+      "tag": "PokeMMO #pve-alerts#0000",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/1410474350590820482/1cf7c21185a1e17a515319a5f0a0a5d3.webp",
+      "addedAt": 1759722452072,
+      "lastSeen": 1759930694800,
+      "stats": {
+        "messages": {
+          "total": 4,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 4,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 1,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "528557940811104258": {
+      "id": "528557940811104258",
+      "username": "DL",
+      "displayName": "DL",
+      "tag": "DL#7419",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/528557940811104258/d94fb94724d913a9238614969339a318.webp",
+      "addedAt": 1759724210109,
+      "lastSeen": 1759939499830,
+      "stats": {
+        "messages": {
+          "total": 6,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 0,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 2,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "1283493009887068282": {
+      "id": "1283493009887068282",
+      "username": "Place",
+      "displayName": "Place",
+      "tag": "Place#8218",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/1283493009887068282/32e1ec2f8033217d2bd635c2b37a924a.webp",
+      "addedAt": 1759725343204,
+      "lastSeen": 1759935791575,
+      "stats": {
+        "messages": {
+          "total": 3,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 0,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": 1,
+          "lastActiveDay": "Wed Oct 08 2025"
+        }
+      }
+    },
+    "499595256270946326": {
+      "id": "499595256270946326",
+      "username": "InviteLogger",
+      "displayName": "InviteLogger",
+      "tag": "InviteLogger#5780",
+      "isBot": true,
+      "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/9211de86210d39944cda4bbfc04a154d.webp",
+      "addedAt": 1759851141675,
+      "lastSeen": 1759851141676,
+      "stats": {
+        "messages": {
+          "total": 1,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "byType": {
+            "embeds": 0,
+            "interactions": 0,
+            "errors": 0,
+            "responses": 0,
+            "notifications": 0,
+            "commands": 0
+          }
+        },
+        "voice": {
+          "totalTime": 0,
+          "today": 0,
+          "thisWeek": 0,
+          "thisMonth": 0,
+          "sessions": 0,
+          "averageSession": 0,
+          "longestSession": 0,
+          "byChannel": {}
+        },
+        "activity": {
+          "uptime": 0,
+          "commandsProcessed": 0,
+          "errors": 0,
+          "lastError": null,
+          "reliability": 100,
+          "activeDays": null,
+          "lastActiveDay": "Tue Oct 07 2025"
+        }
+      }
+    }
+  },
+  "server": {
+    "stats": {
+      "totalMessages": 431,
+      "totalVoiceTime": 35610,
+      "totalUsers": 0,
+      "totalBots": 0,
+      "activeChannels": 0,
+      "peakConcurrentUsers": 0,
+      "averageDailyActivity": 0
+    },
+    "channels": {}
+  },
+  "leaderboards": {
+    "messages": {
+      "allTime": [
+        {
+          "id": "1289643168438157393",
+          "username": "Piatella",
+          "displayName": "/PiatellaJS",
+          "tag": "Piatella#7475",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1289643168438157393/8d0d5926a130ac4e318e9284c0464a0b.webp",
+          "addedAt": 1759715971653,
+          "lastSeen": 1759728275155,
+          "stats": {
+            "messages": {
+              "total": 25,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 25,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1423444976343187517",
+          "username": "🕲- 𝘮",
+          "displayName": "🕲- 𝘮",
+          "tag": "🕲- 𝘮#4655",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1423444976343187517/4f41cf39973fa981689ade6cdf6103e3.webp",
+          "addedAt": 1759715971655,
+          "lastSeen": 1759717547035,
+          "stats": {
+            "messages": {
+              "total": 14,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1395,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 93,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1395
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1052179716334956636",
+          "username": "idea37",
+          "displayName": "idea",
+          "tag": "idea37",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1052179716334956636/65d9f655af6b74c853cca21e373c9642.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 5,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 4,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 1,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1410474350590820482",
+          "username": "PokeMMO #pve-alerts",
+          "displayName": "PokeMMO #pve-alerts",
+          "tag": "PokeMMO #pve-alerts#0000",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1410474350590820482/1cf7c21185a1e17a515319a5f0a0a5d3.webp",
+          "addedAt": 1759722452072,
+          "lastSeen": 1759723028651,
+          "stats": {
+            "messages": {
+              "total": 2,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 2,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1365537873012461569",
+          "username": ".neednoone",
+          "displayName": "n33d?",
+          "tag": ".neednoone",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1365537873012461569/22e4e82bc6812bc5f98cb760e193ce35.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717321975,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 1,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1350,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 90,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1350
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1088121021044887572",
+          "username": ".polosko",
+          "displayName": "polo",
+          "tag": ".polosko",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1088121021044887572/0ccf3a266e8a43ecb6c6a7c8969adef2.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717442007,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 1,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1470,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 98,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1470
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "302050872383242240",
+          "username": "DISBOARD",
+          "displayName": "DISBOARD",
+          "tag": "DISBOARD#2760",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/302050872383242240/67342a774a9f2d20d62bfc8553bb98e0.webp",
+          "addedAt": 1759722438807,
+          "lastSeen": 1759722438808,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 1,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "528557940811104258",
+          "username": "DL",
+          "displayName": "DL",
+          "tag": "DL#7419",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/528557940811104258/d94fb94724d913a9238614969339a318.webp",
+          "addedAt": 1759724210109,
+          "lastSeen": 1759724210109,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1283493009887068282",
+          "username": "Place",
+          "displayName": "Place",
+          "tag": "Place#8218",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1283493009887068282/32e1ec2f8033217d2bd635c2b37a924a.webp",
+          "addedAt": 1759725343204,
+          "lastSeen": 1759725343204,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "user1",
+          "username": "TestUser1",
+          "displayName": "Test User 1",
+          "tag": "TestUser1#0000",
+          "isBot": false,
+          "avatar": null,
+          "joinedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "771949782360391711",
+          "username": "houdini.zzz",
+          "displayName": "Houdini",
+          "tag": "houdini.zzz",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/771949782360391711/1d19c95422d920d6ea631a73d37d9356.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759721583400,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 5610,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 374,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 5610
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1223615685763137568",
+          "username": "cheatzy05",
+          "displayName": "balustrade le bal",
+          "tag": "cheatzy05",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1223615685763137568/c2e6b066a9873c98047cd51a9a9c50af.webp",
+          "joinedAt": 1759728238058,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 60,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 4,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1264001108414828635": 60
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "bot1",
+          "username": "TestBot1",
+          "displayName": "Test Bot 1",
+          "tag": "TestBot1#0000",
+          "isBot": true,
+          "avatar": null,
+          "addedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100
+            }
+          }
+        }
+      ],
+      "today": [],
+      "thisWeek": [],
+      "thisMonth": []
+    },
+    "voice": {
+      "allTime": [
+        {
+          "id": "1052179716334956636",
+          "username": "idea37",
+          "displayName": "idea",
+          "tag": "idea37",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1052179716334956636/65d9f655af6b74c853cca21e373c9642.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 5,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 4,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 1,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1289643168438157393",
+          "username": "Piatella",
+          "displayName": "/PiatellaJS",
+          "tag": "Piatella#7475",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1289643168438157393/8d0d5926a130ac4e318e9284c0464a0b.webp",
+          "addedAt": 1759715971653,
+          "lastSeen": 1759728275155,
+          "stats": {
+            "messages": {
+              "total": 25,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 25,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "771949782360391711",
+          "username": "houdini.zzz",
+          "displayName": "Houdini",
+          "tag": "houdini.zzz",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/771949782360391711/1d19c95422d920d6ea631a73d37d9356.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759721583400,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 5610,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 374,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 5610
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1088121021044887572",
+          "username": ".polosko",
+          "displayName": "polo",
+          "tag": ".polosko",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1088121021044887572/0ccf3a266e8a43ecb6c6a7c8969adef2.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717442007,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 1,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1470,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 98,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1470
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1423444976343187517",
+          "username": "🕲- 𝘮",
+          "displayName": "🕲- 𝘮",
+          "tag": "🕲- 𝘮#4655",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1423444976343187517/4f41cf39973fa981689ade6cdf6103e3.webp",
+          "addedAt": 1759715971655,
+          "lastSeen": 1759717547035,
+          "stats": {
+            "messages": {
+              "total": 14,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1395,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 93,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1395
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1365537873012461569",
+          "username": ".neednoone",
+          "displayName": "n33d?",
+          "tag": ".neednoone",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1365537873012461569/22e4e82bc6812bc5f98cb760e193ce35.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717321975,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 1,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1350,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 90,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1350
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1223615685763137568",
+          "username": "cheatzy05",
+          "displayName": "balustrade le bal",
+          "tag": "cheatzy05",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1223615685763137568/c2e6b066a9873c98047cd51a9a9c50af.webp",
+          "joinedAt": 1759728238058,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 60,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 4,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1264001108414828635": 60
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "user1",
+          "username": "TestUser1",
+          "displayName": "Test User 1",
+          "tag": "TestUser1#0000",
+          "isBot": false,
+          "avatar": null,
+          "joinedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "bot1",
+          "username": "TestBot1",
+          "displayName": "Test Bot 1",
+          "tag": "TestBot1#0000",
+          "isBot": true,
+          "avatar": null,
+          "addedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100
+            }
+          }
+        },
+        {
+          "id": "302050872383242240",
+          "username": "DISBOARD",
+          "displayName": "DISBOARD",
+          "tag": "DISBOARD#2760",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/302050872383242240/67342a774a9f2d20d62bfc8553bb98e0.webp",
+          "addedAt": 1759722438807,
+          "lastSeen": 1759722438808,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 1,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1410474350590820482",
+          "username": "PokeMMO #pve-alerts",
+          "displayName": "PokeMMO #pve-alerts",
+          "tag": "PokeMMO #pve-alerts#0000",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1410474350590820482/1cf7c21185a1e17a515319a5f0a0a5d3.webp",
+          "addedAt": 1759722452072,
+          "lastSeen": 1759723028651,
+          "stats": {
+            "messages": {
+              "total": 2,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 2,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "528557940811104258",
+          "username": "DL",
+          "displayName": "DL",
+          "tag": "DL#7419",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/528557940811104258/d94fb94724d913a9238614969339a318.webp",
+          "addedAt": 1759724210109,
+          "lastSeen": 1759724210109,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1283493009887068282",
+          "username": "Place",
+          "displayName": "Place",
+          "tag": "Place#8218",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1283493009887068282/32e1ec2f8033217d2bd635c2b37a924a.webp",
+          "addedAt": 1759725343204,
+          "lastSeen": 1759725343204,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        }
+      ],
+      "today": [],
+      "thisWeek": [],
+      "thisMonth": []
+    },
+    "activity": {
+      "allTime": [
+        {
+          "id": "1365537873012461569",
+          "username": ".neednoone",
+          "displayName": "n33d?",
+          "tag": ".neednoone",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1365537873012461569/22e4e82bc6812bc5f98cb760e193ce35.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717321975,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 1,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1350,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 90,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1350
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1088121021044887572",
+          "username": ".polosko",
+          "displayName": "polo",
+          "tag": ".polosko",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1088121021044887572/0ccf3a266e8a43ecb6c6a7c8969adef2.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717442007,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 1,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1470,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 98,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1470
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1052179716334956636",
+          "username": "idea37",
+          "displayName": "idea",
+          "tag": "idea37",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1052179716334956636/65d9f655af6b74c853cca21e373c9642.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 5,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 4,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 1,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "user1",
+          "username": "TestUser1",
+          "displayName": "Test User 1",
+          "tag": "TestUser1#0000",
+          "isBot": false,
+          "avatar": null,
+          "joinedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "771949782360391711",
+          "username": "houdini.zzz",
+          "displayName": "Houdini",
+          "tag": "houdini.zzz",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/771949782360391711/1d19c95422d920d6ea631a73d37d9356.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759721583400,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 5610,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 374,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 5610
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1223615685763137568",
+          "username": "cheatzy05",
+          "displayName": "balustrade le bal",
+          "tag": "cheatzy05",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1223615685763137568/c2e6b066a9873c98047cd51a9a9c50af.webp",
+          "joinedAt": 1759728238058,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 60,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 4,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1264001108414828635": 60
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "bot1",
+          "username": "TestBot1",
+          "displayName": "Test Bot 1",
+          "tag": "TestBot1#0000",
+          "isBot": true,
+          "avatar": null,
+          "addedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100
+            }
+          }
+        },
+        {
+          "id": "1289643168438157393",
+          "username": "Piatella",
+          "displayName": "/PiatellaJS",
+          "tag": "Piatella#7475",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1289643168438157393/8d0d5926a130ac4e318e9284c0464a0b.webp",
+          "addedAt": 1759715971653,
+          "lastSeen": 1759728275155,
+          "stats": {
+            "messages": {
+              "total": 25,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 25,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1423444976343187517",
+          "username": "🕲- 𝘮",
+          "displayName": "🕲- 𝘮",
+          "tag": "🕲- 𝘮#4655",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1423444976343187517/4f41cf39973fa981689ade6cdf6103e3.webp",
+          "addedAt": 1759715971655,
+          "lastSeen": 1759717547035,
+          "stats": {
+            "messages": {
+              "total": 14,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1395,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 93,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1395
+              }
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "302050872383242240",
+          "username": "DISBOARD",
+          "displayName": "DISBOARD",
+          "tag": "DISBOARD#2760",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/302050872383242240/67342a774a9f2d20d62bfc8553bb98e0.webp",
+          "addedAt": 1759722438807,
+          "lastSeen": 1759722438808,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 1,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1410474350590820482",
+          "username": "PokeMMO #pve-alerts",
+          "displayName": "PokeMMO #pve-alerts",
+          "tag": "PokeMMO #pve-alerts#0000",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1410474350590820482/1cf7c21185a1e17a515319a5f0a0a5d3.webp",
+          "addedAt": 1759722452072,
+          "lastSeen": 1759723028651,
+          "stats": {
+            "messages": {
+              "total": 2,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 2,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "528557940811104258",
+          "username": "DL",
+          "displayName": "DL",
+          "tag": "DL#7419",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/528557940811104258/d94fb94724d913a9238614969339a318.webp",
+          "addedAt": 1759724210109,
+          "lastSeen": 1759724210109,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        },
+        {
+          "id": "1283493009887068282",
+          "username": "Place",
+          "displayName": "Place",
+          "tag": "Place#8218",
+          "isBot": true,
+          "avatar": "https://cdn.discordapp.com/avatars/1283493009887068282/32e1ec2f8033217d2bd635c2b37a924a.webp",
+          "addedAt": 1759725343204,
+          "lastSeen": 1759725343204,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "embeds": 0,
+                "interactions": 0,
+                "errors": 0,
+                "responses": 0,
+                "notifications": 0,
+                "commands": 0
+              }
+            },
+            "voice": {
+              "totalTime": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 0,
+              "averageSession": 0,
+              "longestSession": 0,
+              "byChannel": {}
+            },
+            "activity": {
+              "uptime": 0,
+              "commandsProcessed": 0,
+              "errors": 0,
+              "lastError": null,
+              "reliability": 100,
+              "activeDays": null,
+              "lastActiveDay": "Mon Oct 06 2025"
+            }
+          }
+        }
+      ],
+      "today": [],
+      "thisWeek": [],
+      "thisMonth": []
+    },
+    "engagement": {
+      "allTime": [
+        {
+          "id": "user1",
+          "username": "TestUser1",
+          "displayName": "Test User 1",
+          "tag": "TestUser1#0000",
+          "isBot": false,
+          "avatar": null,
+          "joinedAt": 1759715932475,
+          "lastSeen": 1759715934482,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 15,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 1,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "channel1": 15
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1365537873012461569",
+          "username": ".neednoone",
+          "displayName": "n33d?",
+          "tag": ".neednoone",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1365537873012461569/22e4e82bc6812bc5f98cb760e193ce35.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717321975,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 1,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1350,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 90,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1350
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1088121021044887572",
+          "username": ".polosko",
+          "displayName": "polo",
+          "tag": ".polosko",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1088121021044887572/0ccf3a266e8a43ecb6c6a7c8969adef2.webp",
+          "joinedAt": 1759715971653,
+          "lastSeen": 1759717442007,
+          "stats": {
+            "messages": {
+              "total": 1,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 1,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 1470,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 98,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 1470
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1052179716334956636",
+          "username": "idea37",
+          "displayName": "idea",
+          "tag": "idea37",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1052179716334956636/65d9f655af6b74c853cca21e373c9642.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 5,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 4,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 1,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 12300,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 820,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 12300
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": "Mon Oct 06 2025",
+              "activeDays": 1,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "771949782360391711",
+          "username": "houdini.zzz",
+          "displayName": "Houdini",
+          "tag": "houdini.zzz",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/771949782360391711/1d19c95422d920d6ea631a73d37d9356.webp",
+          "joinedAt": 1759715971654,
+          "lastSeen": 1759721583400,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 5610,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 374,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1351148171262300160": 5610
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        },
+        {
+          "id": "1223615685763137568",
+          "username": "cheatzy05",
+          "displayName": "balustrade le bal",
+          "tag": "cheatzy05",
+          "isBot": false,
+          "avatar": "https://cdn.discordapp.com/avatars/1223615685763137568/c2e6b066a9873c98047cd51a9a9c50af.webp",
+          "joinedAt": 1759728238058,
+          "lastSeen": 1759728275156,
+          "stats": {
+            "messages": {
+              "total": 0,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "byType": {
+                "text": 0,
+                "embeds": 0,
+                "attachments": 0,
+                "links": 0,
+                "commands": 0,
+                "reactions": 0,
+                "edits": 0,
+                "deletes": 0
+              }
+            },
+            "voice": {
+              "totalTime": 60,
+              "today": 0,
+              "thisWeek": 0,
+              "thisMonth": 0,
+              "sessions": 4,
+              "averageSession": 15,
+              "longestSession": 15,
+              "byChannel": {
+                "1264001108414828635": 60
+              }
+            },
+            "activity": {
+              "dailyStreak": 0,
+              "longestStreak": 0,
+              "lastActiveDay": null,
+              "activeDays": 0,
+              "totalDays": 0
+            },
+            "engagement": {
+              "reactionsGiven": 0,
+              "reactionsReceived": 0,
+              "mentions": 0,
+              "mentionsGiven": 0,
+              "channelsActive": 0,
+              "serversActive": 0
+            }
+          }
+        }
+      ],
+      "today": [],
+      "thisWeek": [],
+      "thisMonth": []
+    }
+  },
+  "analytics": {
+    "dailyStats": {
+      "Mon Oct 06 2025": {
+        "messages": 0,
+        "voiceTime": 0,
+        "activeUsers": 2,
+        "activeBots": 2,
+        "newUsers": 0,
+        "peakConcurrent": 0
+      }
+    },
+    "hourlyStats": {
+      "Mon Oct 06 2025_4": {
+        "messages": 0,
+        "voiceTime": 0,
+        "activeUsers": 6
+      },
+      "Mon Oct 06 2025_5": {
+        "messages": 0,
+        "voiceTime": 0,
+        "activeUsers": 5
+      },
+      "Mon Oct 06 2025_6": {
+        "messages": 0,
+        "voiceTime": 0,
+        "activeUsers": 4
+      },
+      "Mon Oct 06 2025_7": {
+        "messages": 0,
+        "voiceTime": 0,
+        "activeUsers": 4
+      }
+    },
+    "trends": {
+      "messageTrend": "stable",
+      "voiceTrend": "stable",
+      "userTrend": "stable",
+      "activityTrend": "stable"
+    }
+  }
+}
